@@ -1,5 +1,7 @@
 PersonalSite::Application.routes.draw do
-  root :to => 'pages#resume'
+  root :to => 'pages#index'
+
+  get "resume" => "pages#resume"
   
   # The priority is based upon order of creation:
   # first created -> highest priority.
