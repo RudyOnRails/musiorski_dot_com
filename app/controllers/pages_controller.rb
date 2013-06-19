@@ -5,7 +5,7 @@ class PagesController < ApplicationController
   end
 
   def resume
-    redirect_to "/resume.pdf"
+    redirect_to "/musiorski_resume.pdf"
   end
 
 end
