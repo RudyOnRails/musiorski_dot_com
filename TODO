@@ -3,3 +3,7 @@
  ✔ make name bigger @done (13-06-30 00:55)
  ✔ install guard-livereload gem @done (13-06-30 01:06)
  ✔ remove extra guard plugins from guardfile @done (13-06-30 01:15)
+ ✔ install rack-livereload @done (13-06-30 01:28)
+ ✔ configure rack to inject livereload in @done (13-06-30 01:28)
+ ✔ test live-reload in browser @done (13-06-30 01:30)
+ 
