@@ -6,4 +6,4 @@
  ✔ install rack-livereload @done (13-06-30 01:28)
  ✔ configure rack to inject livereload in @done (13-06-30 01:28)
  ✔ test live-reload in browser @done (13-06-30 01:30)
- 
+ ✔ change title @done (13-06-30 01:47)
