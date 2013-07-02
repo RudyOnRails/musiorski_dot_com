@@ -7,3 +7,6 @@
  ✔ configure rack to inject livereload in @done (13-06-30 01:28)
  ✔ test live-reload in browser @done (13-06-30 01:30)
  ✔ change title @done (13-06-30 01:47)
+ ☐ bump down the h1
+ ☐ add symlink to resume pdf in dropbox
+ ☐ insert photo
