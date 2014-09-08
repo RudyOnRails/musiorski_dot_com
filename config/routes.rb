@@ -2,7 +2,9 @@ PersonalSite::Application.routes.draw do
   root :to => 'pages#index'
 
   get "resume" => "pages#resume"
-  
+
+  get "chitech" => "pages#chitech_digital_portfolio"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
