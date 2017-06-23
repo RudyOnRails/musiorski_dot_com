@@ -9,9 +9,6 @@ ruby "2.3.0"
 
 group :development do
 	gem 'sqlite3'
-  gem 'guard'
-  gem 'guard-livereload'
-  gem 'rack-livereload'
 end
 
 group :production do
