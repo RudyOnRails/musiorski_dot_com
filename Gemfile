@@ -50,3 +50,5 @@ gem "haml-rails"
 gem "twitter-bootstrap-rails"
 gem "heroku"
 gem "therubyracer"
+
+gem 'json', '>=1.8.3'
